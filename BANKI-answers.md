@@ -69,11 +69,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 
-- [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+- [x] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 
   - **Cause:** Worked on a hackaton at work.
   - **Action:** We worked as a team on a project for the overall company to better assist new reps in traning and using SSH as their way to run tools on our end.
-  - **Result:**
+  - **Result:** We were not selected but practicing working in a team with new people and having to figure out an idea that benefits all was hard, but rewardning. Even thouhgh they didn't select our product we were still very proud of what we came up with.
 
 - [ ] B7) Give an example of an important project goal you reached and how you achieved it.
 
@@ -81,11 +81,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 
-- [ ] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
+- [x] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** Hackathon idea was hard to get across, but after talking to co-workers and teammates we were able to figure out a good idea.
+  - **Action:** I was able to provide some ideas and provide feedback on others.
+  - **Result:** We worked on a compromised version of the project and pushed forward a good idea that was ultimately not selected.
 
 - [x] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
 
@@ -93,11 +93,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** I made the call to split some of the more important pieces out to a different supplier which had been successful in the past, but cost significantly more. I then worked with the newer supplier to look at their powder coating process and identify area's that were causing issues (pre-powder cleaning was the main culprit).
   - **Result:** I was able to deliver 95% of the parts to the client for review and was able to convince them that we were resolving some issues with other pieces and all would be fine. I was able to help the supplier adjust their cleaning process so that when final production started the QC rejection rate went from 75% on the prototypes to less than 5% on production. It sounds like a lot, but for the industry and process it was rather good.
 
-- [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
+- [x] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** At times we work with multiple customers are the same time and you can sometimes send the wrong information to the wrong customer.
+  - **Action:** When this happens I reach back out as quickly as posible to apoligize and followup with their correct requests.
+  - **Result:** This prevents issues with QA on my end and also provides the right info to the customer.
 
 - [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
 
